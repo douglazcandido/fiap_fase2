@@ -1,0 +1,44 @@
+[
+    {
+        "descricao": "CELULAR",
+        "tipo_embalagem": "CAIXA",
+        "valor_produto": 3500.2,
+        "valor_icms": 630.04
+    },
+    {
+        "descricao": "PROCESSADOR",
+        "tipo_embalagem": "PLÁSTICO",
+        "valor_produto": 1049.5,
+        "valor_icms": 188.91
+    },
+    {
+        "descricao": "NVIDIA RTX 4090",
+        "tipo_embalagem": "CAIXA",
+        "valor_produto": 10000.4,
+        "valor_icms": 1800.07
+    },
+    {
+        "descricao": "ROÇADEIRA AGRÍCOLA",
+        "tipo_embalagem": "CAIXA",
+        "valor_produto": 2500.0,
+        "valor_icms": 450.0
+    },
+    {
+        "descricao": "MACACO HIDRÁULICO",
+        "tipo_embalagem": "CAIXA",
+        "valor_produto": 200.0,
+        "valor_icms": 36.0
+    },
+    {
+        "descricao": "TREMBOLONA",
+        "tipo_embalagem": "FRASCO",
+        "valor_produto": 120.0,
+        "valor_icms": 21.6
+    },
+    {
+        "descricao": "DURATESTON",
+        "tipo_embalagem": "FRASCO",
+        "valor_produto": 230.0,
+        "valor_icms": 41.4
+    }
+]
